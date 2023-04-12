@@ -8,5 +8,6 @@ public class Main {
         int[]primeNumbers =new int[]{2, 3, 5, 7, 11, 13};
 
         System.out.println(Arrays.toString(primeNumbers));
+
     }
 }
